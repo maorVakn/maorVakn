@@ -23,7 +23,7 @@
 I'm building projects that connect low-level understanding with real user-facing software.
 
 - Currently working on **CICO**, a local .NET decompiler that turns `.exe` / `.dll` files into readable C#-like output.
-- Interested in **C++**, **C#**, compiler internals, networking, desktop tools, and web development.
+- Interested in **C**, **C++**, **C#**, **Assembly**, compiler internals, networking, desktop tools, and web development.
 - I like projects with a clear purpose: tools that teach, visualize, inspect, automate, or make something easier to understand.
 - Always learning better architecture, cleaner UI, and stronger engineering habits.
 
@@ -65,12 +65,16 @@ I'm building projects that connect low-level understanding with real user-facing
 
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="Assembly" src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
@@ -80,7 +84,7 @@ I'm building projects that connect low-level understanding with real user-facing
 
 ```text
 Reverse engineering   -> .NET internals, PE files, IL, metadata
-Systems programming   -> C++, sockets, performance, native tooling
+Systems programming   -> C, C++, Assembly, sockets, performance, native tooling
 Desktop apps          -> Python GUI tools and local developer utilities
 Frontend              -> clean interfaces, responsive pages, useful project sites
 ```
