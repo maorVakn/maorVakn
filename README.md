@@ -8,6 +8,7 @@
   <a href="https://github.com/maorVakn?tab=repositories">
     <img alt="GitHub repositories" src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img alt="Available for interesting work" src="https://img.shields.io/badge/Available%20for-Interesting%20Work-16A34A?style=for-the-badge" />
   <a href="https://github.com/maorVakn/CICO-C-Sharp-Decompiler">
     <img alt="CICO Decompiler" src="https://img.shields.io/badge/CICO-.NET%20Decompiler-2563EB?style=for-the-badge" />
   </a>
@@ -22,10 +23,22 @@
 
 I'm building projects that connect low-level understanding with real user-facing software.
 
+- High school student from Netanya, Israel, with a strong interest in software development, cybersecurity, reverse engineering, and low-level systems programming.
 - Currently working on **CICO**, a local .NET decompiler that turns `.exe` / `.dll` files into readable C#-like output.
-- Interested in **C**, **C++**, **C#**, **Assembly**, compiler internals, networking, desktop tools, and web development.
+- Experienced in **C++**, **C**, networking, multithreading, and building real-world projects with compiler-related technologies.
+- Interested in **C**, **C++**, **C#**, **Assembly**, compiler internals, networking, desktop tools, cybersecurity, and web development.
 - I like projects with a clear purpose: tools that teach, visualize, inspect, automate, or make something easier to understand.
 - Always learning better architecture, cleaner UI, and stronger engineering habits.
+
+---
+
+### Education
+
+**Shai Agnon High School, Netanya, Israel** | 2020 - Present  
+Excellence class, with 5-point studies in English, Math, Biology, and Computer Science.
+
+**Magshimim Cyber Program** | 2023 - Present  
+Advanced programming in C++ and C, networking based on the 5-layer networking model, reverse engineering, and computer architecture.
 
 ---
 
@@ -46,6 +59,19 @@ I'm building projects that connect low-level understanding with real user-facing
       <a href="https://github.com/maorVakn/CICO-C-Sharp-Decompiler">View repository</a>
     </td>
     <td width="50%">
+      <h3>Multithreaded Chess Server</h3>
+      <p>
+        A C++ server for hosting chess games, built around game mechanics, move logic,
+        multithreading, and a protocol for validating moves.
+      </p>
+      <p>
+        <b>Focus:</b> socket programming, protocol design, concurrency, game-state
+        validation, and server-side logic.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>Poland Delegation Website 2026</h3>
       <p>
         A web project for the Poland Delegation 2026, focused on presentation,
@@ -55,6 +81,16 @@ I'm building projects that connect low-level understanding with real user-facing
         <b>Focus:</b> responsive layout, visual storytelling, and clean frontend organization.
       </p>
       <a href="https://github.com/maorVakn/Poland1">View repository</a>
+    </td>
+    <td width="50%">
+      <h3>Learning & Research</h3>
+      <p>
+        Ongoing exploration of networking, operating systems, reverse engineering,
+        and low-level programming through practical exercises and personal projects.
+      </p>
+      <p>
+        <b>Focus:</b> protocols, sockets, OS concepts, assembly basics, and binary analysis.
+      </p>
     </td>
   </tr>
 </table>
@@ -84,10 +120,28 @@ I'm building projects that connect low-level understanding with real user-facing
 
 ```text
 Reverse engineering   -> .NET internals, PE files, IL, metadata
-Systems programming   -> C, C++, Assembly, sockets, performance, native tooling
+Systems programming   -> C, C++, Assembly, sockets, multithreading, native tooling
+Networking            -> protocols, socket programming, 5-layer model, client-server systems
 Desktop apps          -> Python GUI tools and local developer utilities
 Frontend              -> clean interfaces, responsive pages, useful project sites
 ```
+
+---
+
+### Volunteering
+
+**Call Center Volunteer, Yedidim Organization** | 2023 - Present  
+Roadside assistance dispatcher, handling incoming calls from home and helping coordinate support for people in need.
+
+**Guide, Planetanya Science & Space Center, Netanya** | 2022 - 2023  
+Completed a training course focused on space science and astronomy, then guided visitors and groups through educational activities and exhibitions.
+
+---
+
+### Languages
+
+Hebrew - Native  
+English - High proficiency
 
 ---
 
@@ -110,14 +164,12 @@ Frontend              -> clean interfaces, responsive pages, useful project site
   <a href="https://github.com/maorVakn">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-maorVakn-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:maor2008vak@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <!-- Add your LinkedIn here:
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  -->
-  <!-- Add your email here:
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   -->
 </p>
